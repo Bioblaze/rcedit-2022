@@ -33,7 +33,7 @@
   <PropertyGroup>
     <ExecutablePath>$(ExecutablePath);$(MSBuildProjectDirectory)\.\bin\;$(MSBuildProjectDirectory)\.\bin\</ExecutablePath>
     <IntDir>$(Configuration)\obj\$(ProjectName)\</IntDir>
-    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <OutDir>D:\</OutDir>
     <TargetName>$(ProjectName)</TargetName>
     <TargetPath>$(OutDir)\$(ProjectName)$(TargetExt)</TargetPath>
   </PropertyGroup>
